@@ -1,16 +1,50 @@
-# React + Vite
+🌙 Bushra — Creative Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal, desktop-inspired portfolio built with React + Tailwind, featuring smooth animations, floating windows, and a clean app-icon layout. Designed to feel less like a website and more like a calming digital workspace.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+💻 Desktop-style UI — windows, icons, hover previews
 
-## React Compiler
+🌫️ Soft blur aesthetics — gentle panels + smooth transitions
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+⚡ Fast, responsive, keyboard-friendly
 
-## Expanding the ESLint configuration
+🗂️ Organized folder structure (components, hooks, data, utils)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎨 Clean color palette — minimal, modern, intentional
+
+🛠️ Tech Stack
+
+React
+
+TailwindCSS
+
+Framer Motion
+
+Shadcn/UI
+
+Vite
+
+📁 Project Structure
+src/
+ ├── components/   # UI pieces + windows
+ ├── hooks/        # logic + utilities
+ ├── data/         # content + metadata
+ ├── context/      # global state
+ ├── pages/        # main views
+ └── utils/        # helpers
+
+🚀 Running Locally
+npm install
+npm run dev
+
+🌐 Live Preview
+
+Coming soon.
+
+📬 Contact
+
+If you'd like to connect, collaborate, or just say hi —
+Email: your-email-here
+GitHub: bushra-aekay
