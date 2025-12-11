@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { Github, Linkedin, Mail, Instagram, FileText, Rss, Youtube, Sun, Moon } from 'lucide-react';
-import resumeUrl from './assets/bushra-resume-2025.pdf';
+import resumeUrl from './assets/Bushra.A - Resume 2025.pdf';
 
 
 // --- Configuration ---
