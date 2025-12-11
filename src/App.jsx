@@ -3,13 +3,13 @@ import { Github, Linkedin, Mail, Instagram, FileText, Rss, Youtube, Sun, Moon } 
 
 // --- Configuration ---
 const LINKS = [
-  { icon: FileText, href: "/path/to/your/resume.pdf", label: "Resume" },
-  { icon: Rss, href: "https://medium.com/@yourusername", label: "Medium" },
-  { icon: Youtube, href: "https://youtube.com/@yourusername", label: "YouTube" },
-  { icon: Github, href: "https://github.com/yourusername", label: "GitHub" },
-  { icon: Linkedin, href: "https://linkedin.com/in/yourusername", label: "LinkedIn" },
-  { icon: Instagram, href: "https://instagram.com/yourusername", label: "Instagram" },
-  { icon: Mail, href: "mailto:your.email@example.com", label: "Email" },
+  { icon: FileText, href: "src/assets/Bushra.A - Resume 2025.pdf", label: "Resume" },
+  { icon: Rss, href: "https://medium.com/@bushraabdulkhader", label: "Medium" },
+  { icon: Youtube, href: "https://www.youtube.com/channel/UCbw51Q1wpFuj5BQR3hQjMjg", label: "YouTube" },
+  { icon: Github, href: "https://github.com/bushra-aekay", label: "GitHub" },
+  { icon: Linkedin, href: "https://linkedin.com/in/bushra-abdul-khader-459518222/", label: "LinkedIn" },
+  { icon: Instagram, href: "https://instagram.com/bushra.mov/", label: "Instagram" },
+  { icon: Mail, href: "mailto:atworkbushra@gmail.com", label: "Email" },
 ];
 
 // Define the accent color (Violet/Purple accent, #8b5cf6)
