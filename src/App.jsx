@@ -1,9 +1,11 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { Github, Linkedin, Mail, Instagram, FileText, Rss, Youtube, Sun, Moon } from 'lucide-react';
+import resumeUrl from './assets/bushra-resume-2025.pdf';
+
 
 // --- Configuration ---
 const LINKS = [
-  { icon: FileText, href: "src/assets/Bushra.A - Resume 2025.pdf", label: "Resume" },
+  { icon: FileText, href:resumeUrl, label: "Resume" },
   { icon: Rss, href: "https://medium.com/@bushraabdulkhader", label: "Medium" },
   { icon: Youtube, href: "https://www.youtube.com/channel/UCbw51Q1wpFuj5BQR3hQjMjg", label: "YouTube" },
   { icon: Github, href: "https://github.com/bushra-aekay", label: "GitHub" },
